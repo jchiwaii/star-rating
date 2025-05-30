@@ -3,7 +3,7 @@ import Rating from "./components/Rating";
 
 const App = () => {
   return (
-    <div className="font-roboto">
+    <div className="font-sans">
       <Rating />
     </div>
   );
